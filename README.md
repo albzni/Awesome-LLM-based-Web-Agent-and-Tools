@@ -34,4 +34,16 @@ format:
   - code
   - experiment environments and datasets
 ```
+### 2024
+- [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/pdf/2401.10935.pdf)
+  - Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu
+  - Keyword: Large Language Model, Visual GUI Agents
+  - Code: [official](https://github.com/njucckevin/SeeClick?tab=readme-ov-file)
+
+
+
+
+### 2023
+
+
 
