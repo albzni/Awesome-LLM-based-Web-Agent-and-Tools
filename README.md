@@ -95,7 +95,7 @@ format:
   - experiment environments, datasets or tasks
 ```
 ### 2024
-- [Llama-3](https://github.com/meta-llama/llama3)
+- [Llama3](https://github.com/meta-llama/llama3)
   - Meta
   - Large Language Model
   - Huggingface Site: [official](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
