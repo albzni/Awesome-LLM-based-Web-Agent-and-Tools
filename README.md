@@ -3,7 +3,7 @@ A collection of some awesome public projects about LLM-based Web Agents and Tool
 
 ## Table of Contents
 
-- [Awesome-LLM-based-Web-Agent-and-Tools)](#awesome-llm-based-web-agent-and-tools)
+- [Awesome-LLM-based-Web-Agent-and-Tools](#awesome-llm-based-web-agent-and-tools)
   - [Table of Contents](#table-of-contents)
   - [Overview of LLM-based Web Agent](#overview-of-llm-based-web-agent)
     - [Detailed Explanation](#detailed-explanation)
