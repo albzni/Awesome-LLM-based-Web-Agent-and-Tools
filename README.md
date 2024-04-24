@@ -105,6 +105,10 @@ format:
   - Large Language Model, Chinese chat fine-tuned
   - Huggingface Site: [official](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat)
 
+- [Skyvern](https://github.com/skyvern-ai/skyvern)
+  - Skyvern-AI
+  - Automate browser-based workflows with LLMs and Computer Vision
+  - Huggingface Site: [official](https://www.skyvern.com)
 ### 2023
 
 ## Blogs
