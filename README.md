@@ -94,6 +94,18 @@ format:
   - keyword
   - experiment environments, datasets or tasks
 ```
+### 2024
+- [Llama-3](https://github.com/meta-llama/llama3)
+  - Meta
+  - Large Language Model
+  - Huggingface Site: [official](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
+
+- [Llama3-Chinese-Chat](https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat)
+  - Shenzhi-Wang
+  - Large Language Model, Chinese chat fine-tuned
+  - Huggingface Site: [official](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat)
+
+### 2023
 
 ## Blogs
 
