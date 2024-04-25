@@ -105,6 +105,11 @@ format:
   - Large Language Model, Chinese chat fine-tuned
   - Huggingface Site: [official](https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat)
 
+- [Unichat-llama3-Chinese](https://github.com/UnicomAI/Unichat-llama3-Chinese)
+  - 中国联通AI创新中心
+  - Large Language Model, Chinese chat fine-tuned
+  - Huggingface Site: [official](https://huggingface.co/UnicomLLM)
+
 - [Skyvern](https://github.com/skyvern-ai/skyvern)
   - Skyvern-AI
   - Automate browser-based workflows with LLMs and Computer Vision
